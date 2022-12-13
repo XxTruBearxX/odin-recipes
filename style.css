@@ -2,15 +2,25 @@
     text-align: center;
     font-weight: bold;
     text-decoration: underline;
+    font-family: "Brush Script MT", Garamond, "Times New Roman" sans-serif;
+    color: black;
 }
 body {
     background-color: #b2ab7e;
+}
+
+.description {
+    background-color: #7e9fb2;
+    font-family: Garamond, "Times New Roman" sans-serif;
+    color: black;
 }
 
 .menu,
 .ingredients,
 .instructions {
     background-color: #7e85b2;
+    font-family: Garamond, "Times New Roman" sans-serif;
+    color: black;
 }
 
 img {
@@ -25,14 +35,13 @@ img {
     font-size: 10px;
     text-align: center;
     text-decoration: underline;
+    color: black;
 }
 
 h2 {
     font-weight: bold;
     text-align: center;
     text-decoration: underline;
+    color: black;
 }
 
-.description {
-    background-color: #7e9fb2;
-}
