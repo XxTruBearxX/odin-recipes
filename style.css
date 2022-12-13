@@ -1,0 +1,38 @@
+.header {
+    text-align: center;
+    font-weight: bold;
+    text-decoration: underline;
+}
+body {
+    background-color: #b2ab7e;
+}
+
+.menu,
+.ingredients,
+.instructions {
+    background-color: #7e85b2;
+}
+
+img {
+    height: auto;
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.credit {
+    font-size: 10px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+h2 {
+    font-weight: bold;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.description {
+    background-color: #7e9fb2;
+}
